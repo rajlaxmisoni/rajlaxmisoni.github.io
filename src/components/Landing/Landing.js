@@ -7,7 +7,7 @@ import "./Landing.css";
 import { ThemeContext } from "../../contexts/ThemeContext";
 import { headerData } from "../../data/headerData";
 import { socialsData } from "../../data/socialsData";
-import proPic from "./img/AnmolJain.jpg";
+import proPic from "../../data/myProfile.jpg";
 
 import {
   FaInstagram,
@@ -145,7 +145,7 @@ function Landing() {
               {headerData.resumePdf && (
                 <a
                   href={headerData.resumePdf}
-                  download="Anmol_Jain_resume"
+                  download="Rani_Raj_Laxmi_resume"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -154,12 +154,12 @@ function Landing() {
                       // e.preventDefault();
 
                       window.open(
-                        "https://drive.google.com/file/d/1Hs-C1QryaMa2F9CB7ZvEDuFy6rayUPDa/view?usp=sharing"
+                        "https://drive.google.com/file/d/1pd7275UXLML0ZGl96RS2OqRusgWcpQHb/view"
                       );
                     }}
                     className={classes.resumeBtn}
                   >
-                    Download CV
+                    Resume
                   </Button>
                 </a>
               )}

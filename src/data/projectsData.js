@@ -8,9 +8,9 @@ import tic_image from "../assets/svg/projects/tic.png";
 export const projectsData = [
   {
     id: 1,
-    projectName: "Bebo Beauty",
+    projectName: "Vintage TypeWriter - 3D Model",
     projectDesc:
-      "This is a full-fledged clone of website Beauty Bebo, we have tried to implement every possible feature of the website and provided the full payment cycle with login and signup authoristaion",
+      "Inspired by Halda Green portable typewriters. Modelled in Maya, UV’d in Maya, textured in Substance Painter and Maya. The final low poly renders are achieved in Maya Arnold.",
     tags: ["JavaScript", "HTML", "CSS", "Ecommerce"],
     code: "https://github.com/nisKULDEEP/Beauty-Bebo",
     demo: "https://beauty-bebo-clone.netlify.app/",
