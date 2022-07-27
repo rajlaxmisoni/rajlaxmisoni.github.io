@@ -37,14 +37,14 @@ export const educationData = [
   {
     id: 6,
     institution: "Rani Durgavati University",
-    course: "Master Of Business Administration - HR, Finance",
+    course: "MBA - HR, Finance",
     startYear: "2010",
     endYear: "2013",
   },
   {
     id: 7,
     institution: "Rani Durgavati University",
-    course: "Bachelor Of Commerce - Accounting",
+    course: "B. Com - Accounting",
     startYear: "2007",
     endYear: "2010",
   },

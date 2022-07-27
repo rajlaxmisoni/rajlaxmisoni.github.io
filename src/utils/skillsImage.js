@@ -1,3 +1,5 @@
+import maya from "../assets/svg/skills/maya.svg";
+import zbrush from "../assets/svg/skills/zbrush.svg";
 import gcp from "../assets/svg/skills/gcp.svg";
 import html from "../assets/svg/skills/html.svg";
 import photoshop from "../assets/svg/skills/photoshop.svg";
@@ -79,6 +81,10 @@ import canva from "../assets/svg/skills/canva.svg";
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
+    case "maya":
+      return maya;
+    case "zbrush":
+      return zbrush;
     case "gcp":
       return gcp;
     case "html":

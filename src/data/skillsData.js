@@ -1,6 +1,6 @@
 export const skillsData = [
     "Maya",
-    "ZBrush",
+    "zbrush",
     "Adobe Photoshop",
     "Arnold",
     "Substance 3D Painter",
