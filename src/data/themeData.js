@@ -20,8 +20,8 @@ import {
 
 export const themeData = {
   // theme: bwThemeDark,
-  defaultTheme: bwThemeDark,
-  secondaryTheme: bwThemeLight,
+  defaultTheme: pinkThemeLight,
+  secondaryTheme: pinkThemeDark,
 };
 
 // Choose theme from above

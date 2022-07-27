@@ -1,9 +1,9 @@
-import beauty_image from "../assets/svg/projects/beauty.png";
-import guess_image from "../assets/svg/projects/win.png";
-import adidas_image from "../assets/svg/projects/adidas.png";
-import bankman_image from "../assets/svg/projects/Anmol.png";
-import bankmanLanding_image from "../assets/svg/projects/bankman.png";
-import expense_image from "../assets/svg/projects/Expense.png";
+import typewriter_image from "../assets/portfolio/vintage_typewriter/vintage-typewriter-front.jpeg";
+import train_tunnel_image from "../assets/portfolio/train_tunnel/train-tunnel.jpeg";
+import gas_station_image from "../assets/portfolio/gas_station/gas-station-front.jpeg";
+import leg_fish_image from "../assets/portfolio/leg_fish/leg-fish.jpeg";
+import amurich_image from "../assets/portfolio/amurich/amurich_front.jpeg";
+import cari_lincoln_image from "../assets/portfolio/abraham_lincoln/lincoln-caricature.jpeg";
 import tic_image from "../assets/svg/projects/tic.png";
 export const projectsData = [
   {
@@ -11,60 +11,60 @@ export const projectsData = [
     projectName: "Vintage TypeWriter - 3D Model",
     projectDesc:
       "Inspired by Halda Green portable typewriters. Modelled in Maya, UV’d in Maya, textured in Substance Painter and Maya. The final low poly renders are achieved in Maya Arnold.",
-    tags: ["JavaScript", "HTML", "CSS", "Ecommerce"],
-    code: "https://github.com/nisKULDEEP/Beauty-Bebo",
-    demo: "https://beauty-bebo-clone.netlify.app/",
-    image: beauty_image,
+    tags: ["Maya", "Substance 3D Painter"],
+    code: "https://www.artstation.com/artwork/NGmYVP",
+    demo: "https://www.artstation.com/artwork/NGmYVP",
+    image: typewriter_image,
   },
   {
     id: 2,
-    projectName: "Adidas",
+    projectName: "Train Tunnel - Lighting, Texturing",
     projectDesc:
-      "It is a non functional html css model of website Adidas just with login functionality, we have implemented css with great precision and the website fully responsive.",
-    tags: ["React", "Redux", "Bootstrap", "Ecommerce"],
-    code: "https://github.com/anmoljain987/addidas-clone",
-    demo: "https://addidas-clone.vercel.app/",
-    image: adidas_image,
+      "Worked on the Train Tunnel as a part of a coursework project. UV’ed and textured the Scene in Maya. Lighting and final renders are achieved in Maya Arnold.\nTechnologies: Maya Arnold and Substance 3D Sampler\n",
+    tags: ["Maya", "Substance 3D Sampler", "Arnold"],
+    code: "https://www.artstation.com/artwork/JeW9WD",
+    demo: "https://www.artstation.com/artwork/JeW9WD",
+    image: train_tunnel_image,
   },
   {
     id: 3,
-    projectName: "BankMan",
+    projectName: "Gas Station - 3D Model",
     projectDesc:
-      "Banking application landing page with login and create account options.It is very beautifully designed with Transitions, Animations , Sliders, Tabbed Components and Modal Window.",
-    tags: ["HTML", "CSS", "JavaScript", "Landing Page"],
-    code: "https://github.com/anmoljain987/BankMan-Landing",
-    demo: "https://bankman-landing.netlify.app/",
-    image: bankmanLanding_image,
+      "The Gas Station Diorama I finished as a part of a coursework project. I modeled it in Maya, textured it in Substance Painter and rendered it in Arnold.",
+    tags: ["Maya", "Substance 3D Painter", "Substance 3D Sampler"],
+    code: "https://www.artstation.com/artwork/wJ0KqO",
+    demo: "https://www.artstation.com/artwork/wJ0KqO",
+    image: gas_station_image,
   },
   {
     id: 4,
-    projectName: "BankMan-Login",
+    projectName: "Leg Fish - 3D Model",
     projectDesc:
-      "Banking Application with login, money transfer, loan, account deletion and logout functionality. Other features like real time money conversion, automatic timed logout are also there",
-    tags: ["HTML", "CSS", "JavaScript", "Banking"],
-    code: "https://github.com/anmoljain987/BankMan",
-    demo: "https://bankman.netlify.app/",
-    image: bankman_image,
+      "I sculpted this 3D Model of a 'Leg Fish' as a part of a 3D Animated Short (in Production) directed by Joel Benjamin, based on a concept art by Kimberly Underwood.",
+    tags: ["ZBrush"],
+    code: "https://www.artstation.com/artwork/14wWOo",
+    demo: "https://www.artstation.com/artwork/14wWOo",
+    image: leg_fish_image,
   },
   {
     id: 5,
-    projectName: "Guess-and-Bless",
+    projectName: "Amurich - 3D Model",
     projectDesc:
-      "It is functional game made using HTML , CSS , JavaScript. This is a simple yet addictive game made just for spending some time",
-    tags: ["HTML", "CSS", "JavaScript", "Responsive", "Game"],
-    code: "https://github.com/anmoljain987/guessIt",
-    demo: "https://guessandbless.netlify.app/",
-    image: guess_image,
+      "This is a fictional environment based character is inspired by the animals living in the Kalahari Desert, based in southern part of African continent. A biped character having fairly shorter and deformed front limbs, whereas it uses them to grab and eat food.",
+    tags: ["ZBrush", "Adobe Photoshop"],
+    code: "https://www.artstation.com/artwork/Ye3Vgb",
+    demo: "https://www.artstation.com/artwork/Ye3Vgb",
+    image: amurich_image,
   },
   {
     id: 6,
-    projectName: "Expense Tracker",
+    projectName: "Caricature - Abraham Lincoln - 3D Sculpture",
     projectDesc:
-      "It is my First React Project. This is a simple but fun way to keep track of your expenses with the help of Bar Graphs.",
-    tags: ["React.js", "React Hooks", "JavaScript", "Analytics"],
-    code: "https://github.com/anmoljain987/expense-tracker",
-    demo: "https://expense-trackerr.vercel.app/",
-    image: expense_image,
+      "It is a 3D Sculpt of Abraham Lincoln. I started with the basic head sculpt of him and later modified and enhanced the features of sculpt as caricature and then polypainted it in ZBrush",
+    tags: ["ZBrush"],
+    code: "https://www.artstation.com/artwork/rAQyD2",
+    demo: "https://www.artstation.com/artwork/rAQyD2",
+    image: cari_lincoln_image,
   },
   // {
   //   id: 7,
@@ -76,16 +76,6 @@ export const projectsData = [
   //   demo: "https://note-maker-nu.vercel.app/",
   //   image: expense_image,
   // },
-    {
-    id: 8,
-    projectName: "Tic-Tac-Toe",
-    projectDesc:
-      "A solo project to showcase my CSS skills. This is fully responsive and was completed in less then 3 hours",
-    tags: ["HTML", "CSS3", "JavaScript", "Game"],
-    code: "https://github.com/anmoljain987/Tic-Tac-Toe---Responsive",
-    demo: "https://tit-for-tat.netlify.app/",
-    image: tic_image,
-  },
 ];
 
 // Do not remove any fields.

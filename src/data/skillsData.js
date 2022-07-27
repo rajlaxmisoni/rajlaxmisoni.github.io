@@ -1,15 +1,18 @@
 export const skillsData = [
-  "HTML",
-  "CSS",
-  "Javascript",
-  "MongoDB",
-  "React",
-  "Node",
-  "Git",
-  "Bootstrap",
-  "MaterialUI",
-  "Firebase",
-  "Canva",
+    "Maya",
+    "ZBrush",
+    "Adobe Photoshop",
+    "Arnold",
+    "Substance 3D Painter",
+    "Substance 3D Sampler",
+    "Adobe Animate",
+    "Premiere Pro",
+    "After Effects",
+    "GitHub",
+    "Google Docs",
+    "AirTable",
+    "Asana",
+    "Miro"
 ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
