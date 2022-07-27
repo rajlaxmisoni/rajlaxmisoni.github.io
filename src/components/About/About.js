@@ -38,7 +38,7 @@ function About() {
         </div>
         <div className="about-img">
           <img
-            src={aboutData.image === 1 ? theme.aboutimg2 : theme.aboutimg1}
+            src={aboutData.image === 2 ? theme.aboutimg2 : theme.aboutimg1}
             alt=""
           />
         </div>

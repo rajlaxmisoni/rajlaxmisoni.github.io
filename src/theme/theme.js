@@ -309,6 +309,49 @@ export const pinkThemeDark = {
     contactsimg: contactsPink
 }
 
+export const lightPinkThemeLight = {
+    type: 'light',
+    primary: '#cc839f',
+    primary400: '#E8D07DFF',
+    primary600: '#e14381',
+    primary80: '#ff4f93cc',
+    primary50: '#ff4f9380',
+    primary30: '#ff4f934d',
+    secondary: '#eaeaea',
+    secondary70: '#eaeaeab3',
+    secondary50: '#eaeaea80',
+    tertiary: '#212121',
+    tertiary80: '#212121cc',
+    tertiary70: '#212121b3',
+    tertiary50: '#21212180',
+    aboutimg1: pinkThemeboy,
+    aboutimg2: yellowThemegirl,
+    eduimg: eduPink,
+    expimg: expPink,
+    contactsimg: contactsPink
+}
+export const lightPinkThemeDark = {
+    type: 'dark',
+    primary: '#cc839f',
+    primary400: '#E8D07DFF',
+    primary600: '#e14381',
+    primary80: '#ff4f93cc',
+    primary50: '#ff4f9380',
+    primary30: '#ff4f934d',
+    secondary: '#212121',
+    secondary70: '#212121b3',
+    secondary50: '#21212180',
+    tertiary: '#eaeaea',
+    tertiary80: '#eaeaeacc',
+    tertiary70: '#eaeaeab3',
+    tertiary50: '#eaeaea80',
+    aboutimg1: yellowThemeboy,
+    aboutimg2: yellowThemegirl,
+    eduimg: eduPink,
+    expimg: expPink,
+    contactsimg: contactsPink
+}
+
 export const yellowThemeLight = {
     type: 'light',
     primary: '#E9AD35',

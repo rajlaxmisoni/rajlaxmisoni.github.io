@@ -10,6 +10,7 @@ import expImgBlack from '../../assets/svg/experience/expImgBlack.svg'
 import './Experience.css'
 
 import {VerticalTimelineElement} from "react-vertical-timeline-component";
+import "react-vertical-timeline-component/style.min.css";
 
 function ExperienceCard({id, company, jobtitle, startYear, endYear}) {
 
@@ -28,7 +29,14 @@ function ExperienceCard({id, company, jobtitle, startYear, endYear}) {
 
 
     return (
-        <VerticalTimelineElement>
+        <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: theme.primary400, color: theme.tertiary, border: '1px solid', borderColor: theme.tertiary }}
+            contentArrowStyle={{ borderRight: '7px solid' }}
+            date={startYear}
+            dateClassName="date"
+            iconStyle={{ background: theme.primary400, color: theme.tertiary }}
+        >
             <Fade bottom>
                 <div key={id} className={`experience-card ${classes.experienceCard}`}>
                     <div className="expcard-img" style={{backgroundColor: theme.primary}}>

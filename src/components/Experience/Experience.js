@@ -21,7 +21,7 @@ function Experience() {
                 </div>
                 <div className="experience-description">
                     <h1 style={{color: theme.primary}}>Experience</h1>
-                    <VerticalTimeline>
+                    <VerticalTimeline lineColor={theme.tertiary}>
                         {experienceData.map(exp => (
                             <ExperienceCard
                                 key={exp.id}

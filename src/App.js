@@ -5,7 +5,7 @@ import {
   Switch,
   Redirect,
 } from "react-router-dom";
-
+import { styled } from '@mui/material/styles';
 import { ThemeContext } from "./contexts/ThemeContext";
 import { Main, BlogPage, ProjectPage } from "./pages";
 import { Skills } from "./components";
@@ -33,6 +33,7 @@ function App() {
       <Router>
         <ScrollToTop />
         <Switch>
+          backgroundColor: theme.palette.mode === 'dark' ? '#003892' : '#001e3c'
           <Route path="/" exact component={Main} />
           <Route path="/blog" exact component={BlogPage} />
           <Route path="/projects" exact component={ProjectPage} />

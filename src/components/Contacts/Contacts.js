@@ -49,7 +49,7 @@ function Contacts() {
 
   const useStyles = makeStyles((t) => ({
     input: {
-      border: `4px solid ${theme.primary80}`,
+      border: `4px solid ${theme.primary}`,
       backgroundColor: `${theme.secondary}`,
       color: `${theme.tertiary}`,
       fontFamily: "var(--primaryFont)",
@@ -60,7 +60,7 @@ function Contacts() {
       },
     },
     message: {
-      border: `4px solid ${theme.primary80}`,
+      border: `4px solid ${theme.primary}`,
       backgroundColor: `${theme.secondary}`,
       color: `${theme.tertiary}`,
       fontFamily: "var(--primaryFont)",

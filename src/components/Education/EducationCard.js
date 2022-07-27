@@ -25,7 +25,19 @@ function EducationCard({id, institution, course, startYear, endYear}) {
     const classes = useStyles();
 
     return (
-        <VerticalTimelineElement>
+        <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{
+                background: theme.primary400,
+                color: theme.tertiary,
+                border: '1px solid',
+                borderColor: theme.tertiary
+            }}
+            contentArrowStyle={{borderRight: '7px solid'}}
+            date={startYear}
+            dateClassName="date"
+            iconStyle={{background: theme.primary400, color: theme.tertiary}}
+        >
             <Fade bottom>
                 <div key={id} className={`education-card ${classes.educationCard}`}>
                     <div className="educard-img" style={{backgroundColor: theme.primary}}>

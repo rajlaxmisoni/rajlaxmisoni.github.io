@@ -22,7 +22,7 @@ function Landing() {
 
   const useStyles = makeStyles((t) => ({
     resumeBtn: {
-      color: theme.primary,
+      color: theme.tertiary,
       borderRadius: "30px",
       textTransform: "inherit",
       textDecoration: "none",
