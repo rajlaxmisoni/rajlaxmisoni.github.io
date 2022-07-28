@@ -65,17 +65,7 @@ export const projectsData = [
     code: "https://www.artstation.com/artwork/rAQyD2",
     demo: "https://www.artstation.com/artwork/rAQyD2",
     image: cari_lincoln_image,
-  },
-  // {
-  //   id: 7,
-  //   projectName: "Note Maker",
-  //   projectDesc:
-  //     "",
-  //   tags: ["React.js", "React Hooks", "JavaScript","Analytics"],
-  //   code: "https://github.com/anmoljain987/Note-Maker",
-  //   demo: "https://note-maker-nu.vercel.app/",
-  //   image: expense_image,
-  // },
+  }
 ];
 
 // Do not remove any fields.
