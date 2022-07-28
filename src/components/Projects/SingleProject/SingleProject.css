@@ -31,6 +31,15 @@
     text-align: center;
 }
 
+.projectContent > h3 {
+    font-family: var(--primaryFont);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.225rem;
+    line-height: 110%;
+    text-align: center;
+}
+
 .projectContent > img {
     width: 100%;
     height: 60%;

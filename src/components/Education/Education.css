@@ -37,7 +37,7 @@
     height: 140px;
     padding: 1rem;
     border-radius: 20px;
-    margin-bottom: 1rem;
+    margin-bottom: 0.0rem;
     transition: background-color 200ms ease-in-out;
 }
 

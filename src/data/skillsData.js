@@ -1,18 +1,19 @@
 export const skillsData = [
-    "Maya",
-    "zbrush",
-    "adobe photoshop",
-    "Arnold",
+    "maya",
+    "ZBrush",
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Adobe Premiere Pro",
+    "Adobe Animate",
+    "Adobe After Effects",
     "Substance 3D Painter",
     "Substance 3D Sampler",
-    "Adobe Animate",
-    "Premiere Pro",
-    "After Effects",
-    "github",
-    "googledocs",
-    "airtable",
-    "asana",
-    "miro"
+    "GitHub",
+    "Google Docs",
+    "Arnold",
+    "AirTable",
+    "Asana",
+    "Miro"
 ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

@@ -36,7 +36,7 @@ function EducationCard({id, institution, course, startYear, endYear}) {
             contentArrowStyle={{borderRight: '7px solid'}}
             date={startYear}
             dateClassName="date"
-            iconStyle={{background: theme.primary400, color: theme.tertiary}}
+            iconStyle={{background: theme.primary, color: theme.tertiary}}
         >
             <Fade bottom>
                 <div key={id} className={`education-card ${classes.educationCard}`}>
