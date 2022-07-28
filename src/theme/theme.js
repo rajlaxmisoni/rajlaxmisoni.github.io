@@ -328,7 +328,7 @@ export const lightPinkThemeLight = {
     aboutimg2: yellowThemegirl,
     eduimg: eduPink,
     expimg: expPink,
-    contactsimg: contactsPink
+    contactsimg: contactsYellow
 }
 export const lightPinkThemeDark = {
     type: 'dark',
@@ -349,7 +349,7 @@ export const lightPinkThemeDark = {
     aboutimg2: yellowThemegirl,
     eduimg: eduPink,
     expimg: expPink,
-    contactsimg: contactsPink
+    contactsimg: contactsYellow
 }
 
 export const yellowThemeLight = {
