@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/rajlaxmisoni.github.io/static/css/main.cc1b65a8.chunk.css",
-    "main.js": "/rajlaxmisoni.github.io/static/js/main.e44faa34.chunk.js",
-    "main.js.map": "/rajlaxmisoni.github.io/static/js/main.e44faa34.chunk.js.map",
-    "runtime-main.js": "/rajlaxmisoni.github.io/static/js/runtime-main.b094e03e.js",
-    "runtime-main.js.map": "/rajlaxmisoni.github.io/static/js/runtime-main.b094e03e.js.map",
+    "main.js": "/rajlaxmisoni.github.io/static/js/main.8a8e9ebb.chunk.js",
+    "main.js.map": "/rajlaxmisoni.github.io/static/js/main.8a8e9ebb.chunk.js.map",
+    "runtime-main.js": "/rajlaxmisoni.github.io/static/js/runtime-main.25928ccf.js",
+    "runtime-main.js.map": "/rajlaxmisoni.github.io/static/js/runtime-main.25928ccf.js.map",
     "static/css/2.873d87e4.chunk.css": "/rajlaxmisoni.github.io/static/css/2.873d87e4.chunk.css",
-    "static/js/2.c91861d8.chunk.js": "/rajlaxmisoni.github.io/static/js/2.c91861d8.chunk.js",
-    "static/js/2.c91861d8.chunk.js.map": "/rajlaxmisoni.github.io/static/js/2.c91861d8.chunk.js.map",
-    "static/js/3.54787e8e.chunk.js": "/rajlaxmisoni.github.io/static/js/3.54787e8e.chunk.js",
-    "static/js/3.54787e8e.chunk.js.map": "/rajlaxmisoni.github.io/static/js/3.54787e8e.chunk.js.map",
+    "static/js/2.d8a375df.chunk.js": "/rajlaxmisoni.github.io/static/js/2.d8a375df.chunk.js",
+    "static/js/2.d8a375df.chunk.js.map": "/rajlaxmisoni.github.io/static/js/2.d8a375df.chunk.js.map",
+    "static/js/3.0d3ce3f7.chunk.js": "/rajlaxmisoni.github.io/static/js/3.0d3ce3f7.chunk.js",
+    "static/js/3.0d3ce3f7.chunk.js.map": "/rajlaxmisoni.github.io/static/js/3.0d3ce3f7.chunk.js.map",
     "index.html": "/rajlaxmisoni.github.io/index.html",
     "static/css/2.873d87e4.chunk.css.map": "/rajlaxmisoni.github.io/static/css/2.873d87e4.chunk.css.map",
     "static/css/main.cc1b65a8.chunk.css.map": "/rajlaxmisoni.github.io/static/css/main.cc1b65a8.chunk.css.map",
-    "static/js/2.c91861d8.chunk.js.LICENSE.txt": "/rajlaxmisoni.github.io/static/js/2.c91861d8.chunk.js.LICENSE.txt",
+    "static/js/2.d8a375df.chunk.js.LICENSE.txt": "/rajlaxmisoni.github.io/static/js/2.d8a375df.chunk.js.LICENSE.txt",
     "static/media/index.css": "/rajlaxmisoni.github.io/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/RaniRajLaxmiSoni-Resume-Animation.8352b9c5.pdf": "/rajlaxmisoni.github.io/static/media/RaniRajLaxmiSoni-Resume-Animation.8352b9c5.pdf",
     "static/media/after-effects.3c076652.svg": "/rajlaxmisoni.github.io/static/media/after-effects.3c076652.svg",
@@ -93,10 +93,10 @@
     "static/media/zbrush.c94f3c59.svg": "/rajlaxmisoni.github.io/static/media/zbrush.c94f3c59.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b094e03e.js",
+    "static/js/runtime-main.25928ccf.js",
     "static/css/2.873d87e4.chunk.css",
-    "static/js/2.c91861d8.chunk.js",
+    "static/js/2.d8a375df.chunk.js",
     "static/css/main.cc1b65a8.chunk.css",
-    "static/js/main.e44faa34.chunk.js"
+    "static/js/main.8a8e9ebb.chunk.js"
   ]
 }
