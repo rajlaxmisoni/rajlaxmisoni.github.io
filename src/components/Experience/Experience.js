@@ -22,7 +22,7 @@ function Experience() {
                 <div className="experience-description">
                     <h1 style={{color: theme.primary}}>Experience</h1>
                     <VerticalTimeline lineColor={theme.tertiary}>
-                        {experienceData.map(exp => (
+                        {experienceData.reverse().map(exp => (
                             <ExperienceCard
                                 key={exp.id}
                                 id={exp.id}

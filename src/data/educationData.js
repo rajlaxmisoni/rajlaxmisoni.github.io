@@ -16,7 +16,7 @@ export const educationData = [
   {
     id: 3,
     institution: "Cal Arts (Certificate Course)",
-    course: "Ideas from the History of Graphic Design",
+    course: "History of Graphic Design",
     startYear: "2017",
     endYear: "2018",
   },

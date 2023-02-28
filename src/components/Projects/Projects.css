@@ -33,7 +33,9 @@
 }
 
 .projects--bodyContainer {
-    display: flex;
+    display: grid;
+    grid-template-columns: [first] auto [line2] auto [line3] auto;
+    grid-template-rows: [row1-start] auto [row1-end] auto [third-line] auto [last-line];
     align-items: center;
     justify-content: center;
     gap: 4.5rem;

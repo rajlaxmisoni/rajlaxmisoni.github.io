@@ -34,7 +34,7 @@ function EducationCard({id, institution, course, startYear, endYear}) {
                 borderColor: theme.tertiary
             }}
             contentArrowStyle={{borderRight: '7px solid'}}
-            date={startYear}
+            date={endYear}
             dateClassName="date"
             iconStyle={{background: theme.primary, color: theme.tertiary}}
         >
@@ -44,7 +44,7 @@ function EducationCard({id, institution, course, startYear, endYear}) {
                         <img src={theme.type === 'light' ? eduImgBlack : eduImgWhite} alt=""/>
                     </div>
                     <div className="education-details">
-                        <h6 style={{color: theme.primary600}}>{startYear}-{endYear}</h6>
+                        <h6 style={{color: theme.primary600}}>{startYear} - {endYear}</h6>
                         <h4 style={{color: theme.tertiary}}>{course}</h4>
                         <h6 style={{color: theme.tertiary80}}>{institution}</h6>
                     </div>

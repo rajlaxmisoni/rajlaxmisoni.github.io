@@ -1,7 +1,7 @@
 export const socialsData = {
   // github: "https://github.com/rajlaxmisoni",
   linkedIn: "https://www.linkedin.com/in/rajlaxmisoni",
-  instagram: "https://www.instagram.com/rajlaxmisoni/",
+  instagram: "https://www.instagram.com/_r_dimensions/",
   // codepen: "https://codepen.io/",
   twitter: "https://twitter.com/ranirajsoni",
   // reddit: "https://www.reddit.com/user/",

@@ -13,4 +13,11 @@ export const experienceData = [
         startYear: 'March 2022',
         endYear: '06.2022'
     },
+    {
+        id: 3,
+        company: 'Change Lab',
+        jobtitle: 'Animation Intern',
+        startYear: 'September 2022',
+        endYear: 'Present'
+    },
 ]

@@ -1,7 +1,7 @@
 .singleProject {
     box-shadow: 4px 4px 8px rgba(36, 3, 3, 0.2);
-    width: 304px;
-    height: 360px;
+    width: 350px;
+    height: 350px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -72,7 +72,7 @@
     position: absolute;
     width: 95%;
     height: 160px;
-    left: 0;
+    left: 8px;
     top: 0;
     transform: translate(-110%,40%);
     padding: 15px;
