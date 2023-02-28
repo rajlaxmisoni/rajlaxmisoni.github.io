@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.da2c4878.chunk.css",
-    "main.js": "/static/js/main.4b7d368f.chunk.js",
-    "main.js.map": "/static/js/main.4b7d368f.chunk.js.map",
+    "main.css": "/static/css/main.71f7b315.chunk.css",
+    "main.js": "/static/js/main.e4ba8c65.chunk.js",
+    "main.js.map": "/static/js/main.e4ba8c65.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f1c36373.js",
     "runtime-main.js.map": "/static/js/runtime-main.f1c36373.js.map",
     "static/css/2.bc6aec99.chunk.css": "/static/css/2.bc6aec99.chunk.css",
@@ -12,10 +12,11 @@
     "static/js/3.044d9368.chunk.js.map": "/static/js/3.044d9368.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.bc6aec99.chunk.css.map": "/static/css/2.bc6aec99.chunk.css.map",
-    "static/css/main.da2c4878.chunk.css.map": "/static/css/main.da2c4878.chunk.css.map",
+    "static/css/main.71f7b315.chunk.css.map": "/static/css/main.71f7b315.chunk.css.map",
     "static/js/2.9c684691.chunk.js.LICENSE.txt": "/static/js/2.9c684691.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/RaniRajLaxmiSoni-Resume-Animation.1923b4df.pdf": "/static/media/RaniRajLaxmiSoni-Resume-Animation.1923b4df.pdf",
+    "static/media/ZBrush_Render_Trex.3ca41f65.jpg": "/static/media/ZBrush_Render_Trex.3ca41f65.jpg",
     "static/media/after-effects.3c076652.svg": "/static/media/after-effects.3c076652.svg",
     "static/media/airtable.9bb68b0f.png": "/static/media/airtable.9bb68b0f.png",
     "static/media/amurich_front.732ba9de.jpeg": "/static/media/amurich_front.732ba9de.jpeg",
@@ -96,7 +97,7 @@
     "static/js/runtime-main.f1c36373.js",
     "static/css/2.bc6aec99.chunk.css",
     "static/js/2.9c684691.chunk.js",
-    "static/css/main.da2c4878.chunk.css",
-    "static/js/main.4b7d368f.chunk.js"
+    "static/css/main.71f7b315.chunk.css",
+    "static/js/main.e4ba8c65.chunk.js"
   ]
 }
