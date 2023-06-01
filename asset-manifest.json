@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e21cc7cb.chunk.css",
-    "main.js": "/static/js/main.1d2223f6.chunk.js",
-    "main.js.map": "/static/js/main.1d2223f6.chunk.js.map",
+    "main.js": "/static/js/main.a0d6ff35.chunk.js",
+    "main.js.map": "/static/js/main.a0d6ff35.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f1c36373.js",
     "runtime-main.js.map": "/static/js/runtime-main.f1c36373.js.map",
     "static/css/2.bc6aec99.chunk.css": "/static/css/2.bc6aec99.chunk.css",
@@ -73,6 +73,7 @@
     "static/media/maya.0bf58694.svg": "/static/media/maya.0bf58694.svg",
     "static/media/miro.4eb7b8c5.svg": "/static/media/miro.4eb7b8c5.svg",
     "static/media/myProfile.bd2fd3dd.jpg": "/static/media/myProfile.bd2fd3dd.jpg",
+    "static/media/nhm_hall_closeup.59f65175.png": "/static/media/nhm_hall_closeup.59f65175.png",
     "static/media/orangeTheme-boy.0ebb8c72.svg": "/static/media/orangeTheme-boy.0ebb8c72.svg",
     "static/media/orangeTheme-girl.d0ad58be.svg": "/static/media/orangeTheme-girl.d0ad58be.svg",
     "static/media/photoshop.1114b31f.svg": "/static/media/photoshop.1114b31f.svg",
@@ -99,6 +100,6 @@
     "static/css/2.bc6aec99.chunk.css",
     "static/js/2.c9e6c467.chunk.js",
     "static/css/main.e21cc7cb.chunk.css",
-    "static/js/main.1d2223f6.chunk.js"
+    "static/js/main.a0d6ff35.chunk.js"
   ]
 }
